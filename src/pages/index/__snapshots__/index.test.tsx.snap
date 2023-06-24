@@ -8,7 +8,7 @@ exports[`Index should render 1`] = `
     <taro-text-core
       class="title"
     >
-      Hello world!
+      Hello world!ccc
     </taro-text-core>
   </taro-view-core>
 </div>

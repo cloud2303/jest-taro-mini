@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Index should render 1`] = `
+<div>
+  <taro-view-core
+    class="index"
+  >
+    <taro-text-core
+      class="title"
+    >
+      Hello world!
+    </taro-text-core>
+  </taro-view-core>
+</div>
+`;
